@@ -40,7 +40,7 @@ Y<%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to KOTI's  TSE Automation, in FULLY automated jenkins</h2>
+			<h2>Welcome to KOTIREDDY's  TSE Automation, in FULLY automated jenkins</h2>
 			<h3>Contact mayank123modi@gmail.com  +91-8955707174 </h3>
 		</div>	
 	</div>
